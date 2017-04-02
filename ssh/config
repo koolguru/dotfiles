@@ -1,0 +1,4 @@
+Host jst
+  HostName login.engin.umich.edu
+  User tayade
+  Compresssion yes
